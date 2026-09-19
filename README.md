@@ -41,18 +41,4 @@
 
 ```text
 Learning   → Building   → Experimenting   → Improving
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://www.instagram.com/makatoded/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.tiktok.com/@dedyzyy1">
-    <img src="https://cdn.simpleicons.org/tiktok/000000" width="40" />
-  </a>
-  &nbsp;
-  <a href="https://youtube.com/@allcontent350">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="40" />
-  </a>
-</p>
+## 🌐 Connect With Me Fuck you
