@@ -1,2 +1,11 @@
-# DedyShafria-DedyShafria-README-profil-Failed-projeck-project
- 💻 Developer | 🚀 Tech   │ │ Enthusiast | 🌱 Building │ │ Learning &amp; Improving
+Repository name *
+┌──────────────────────────┐
+│ DedyShafria              │
+└──────────────────────────┘
+
+Description
+┌──────────────────────────┐
+│ 💻 Developer | 🚀 Tech   │
+│ Enthusiast | 🌱 Building │
+│ Learning & Improving     │
+└──────────────────────
